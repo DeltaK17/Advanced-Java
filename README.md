@@ -67,8 +67,8 @@ LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): \[Red, G
 Set Operations Demonstration\:Union of sets: \[1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: \[4, 5]
 Difference of sets (set1 - set2): \[1, 2, 3]
 Iteration Demonstration : Using for-each loop,Using Iterator<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/MapInterfaceDemo.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/MapInterfaceDemo.png)<br>
 
 ---
 **2b. Map Excercises**<br>
