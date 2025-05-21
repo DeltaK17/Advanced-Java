@@ -103,8 +103,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/Traverse_TreeMap.png)<br>
 
 2. Write a Java program to search for keys C4 and C5 are present or not in the following Tree Map. ("C1", "Red"); ("C2", "Green"); ("C3", "Black");("C4", "White")<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/Search_for_Keys_TreeMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/Search_for_Keys_TreeMap.png)<br>
 
 3. Remove the following all elements from the TreeMap then verify that its size is zero and include once again following elements and iterate them and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
    \[ Hint : clear() , size() and put()]<br>
