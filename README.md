@@ -270,8 +270,8 @@ visited this page n times ( n = number of your visit ) and demonstrate the expir
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6c_PrimeServlet/PrimeServlet.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6c_PrimeServlet/PrimeServlet.png)<br>
 
 ---
 
