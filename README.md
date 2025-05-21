@@ -120,8 +120,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a linked HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) and display only elderly entered 4 elements only
    \[ hint : Refer to 5. LinkedHashMap Demonstration of worked out example]<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Traverse_LinkedHashMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Traverse_LinkedHashMap.png)<br>
 
 2. Include the following elements into the LinkedHashMap called programminglanguages and print all of them. ("Java", 1995);("Python", 1991);(“JavaScript", 1995);("C++", 1985);<br>
 [Program]()<br>
