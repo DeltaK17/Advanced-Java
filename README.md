@@ -76,7 +76,57 @@ appending the string ‘AIET’ for 10000 times both in the StringBuffer and Str
 your answer which one is better.**<br>
 [Program]()<br>
 [Output]()<br>
+**HashMap
 
+1. Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
+   \[ hint : 6. Iterating Over Map in the worked out example]
+   🔗 [Output Screenshot](Exp2-SetInterface/HM1.png)
+
+2. Remove the following all elements from the HashMap then verify that its size is zero and include once again following elements and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
+   \[ Hint : clear() , size() and put()]
+   🔗 [Output Screenshot](Exp2-SetInterface/HM2.png)
+
+3. Write a Java program to copy all mappings from the specified map to another map as shown below
+   Hashmap1 => ( 1, "Red") ,(2, "Green"), (3, "Black")
+   Hashmap2 => (4, "White"),(5, "Blue"),(6, "Orange")
+   Add all the values of Hashmap1 intoLiberation Serif Hashmap2 and print the result
+   🔗 [Output Screenshot](Exp2-SetInterface/HM3.png)
+
+4. Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")
+   🔗 [Output Screenshot](Exp2-SetInterface/HM4.png)
+
+**TreeMap
+
+1. Write a Java program to traverse / iterate all the keys with the specified value in a TreeMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
+   \[ hint : put() ; for (Map.Entry\<Integer,String> entry : tree\_map.entrySet()); getKey() and getValue()]
+   🔗 [Output Screenshot](Exp2-SetInterface/TM1.png)
+
+2. Write a Java program to search for keys C4 and C5 are present or not in the following Tree Map. ("C1", "Red"); ("C2", "Green"); ("C3", "Black");("C4", "White")
+   🔗 [Output Screenshot](Exp2-SetInterface/TM2.png)
+
+3. Remove the following all elements from the TreeMap then verify that its size is zero and include once again following elements and iterate them and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
+   \[ Hint : clear() , size() and put()]
+   🔗 [Output Screenshot](Exp2-SetInterface/TM3.png)
+
+4. Write a Java program to get the first (lowest) key and the last (highest) key currently in the following Treemap. ("C2", "Red"),("C1", "Green"), ("C4", "Black"), ("C3", "White")
+   \[ Hint : firstKey() and lastKey() ]
+   🔗 [Output Screenshot](Exp2-SetInterface/TM4.png)
+
+**LinkedHashMap
+
+1. Write a Java program to traverse / iterate all the keys with the specified value in a linked HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) and display only elderly entered 4 elements only
+   \[ hint : Refer to 5. LinkedHashMap Demonstration of worked out example]
+   🔗 [Output Screenshot](Exp2-SetInterface/LHM1.png)
+
+2. Include the following elements into the LinkedHashMap called programminglanguages and print all of them. ("Java", 1995);("Python", 1991);(“JavaScript", 1995);("C++", 1985);
+   🔗 [Output Screenshot](Exp2-SetInterface/LHM2.png)
+
+3. Include the following elements into the LinkedHashMap called programminglanguages and print as follows. Java was developed in 1995 Python was developed in 1991. JavaScript was developed in 1995 C++ was developed in 1985
+   🔗 [Output Screenshot](Exp2-SetInterface/LHM3.png)
+
+4. Add elements in the same order in the LinkedHaspMap using for() loop and put()
+   String\[] keys = {"C", "A", "B", "E", "D"}; Integer\[] values = {3, 1, 2, 5, 4};
+   🔗 [Output Screenshot](Exp2-SetInterface/LHM4.png)
 ---
 
 **3. String Operations<br>**
