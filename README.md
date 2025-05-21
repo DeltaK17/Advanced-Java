@@ -174,8 +174,8 @@ and punctuation) using user defined function isPalindrome():<br>
 
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Eliminating_all_Whitespace_Characters.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Eliminating_all_Whitespace_Characters.png)<br>
 
 ---
 
