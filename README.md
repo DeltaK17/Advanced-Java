@@ -81,8 +81,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 
 2. Remove the following all elements from the HashMap then verify that its size is zero and include once again following elements and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
    \[ Hint : clear() , size() and put()]<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Remove_Elements_HashMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Remove_Elements_HashMap.png)<br>
 
 3. Write a Java program to copy all mappings from the specified map to another map as shown below
    Hashmap1 => ( 1, "Red") ,(2, "Green"), (3, "Black")
