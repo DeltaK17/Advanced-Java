@@ -108,8 +108,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 
 3. Remove the following all elements from the TreeMap then verify that its size is zero and include once again following elements and iterate them and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
    \[ Hint : clear() , size() and put()]<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/Remove_All_Elements_TreeMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/Remove_All_Elements_TreeMap.png)<br>
 
 4. Write a Java program to get the first (lowest) key and the last (highest) key currently in the following Treemap. ("C2", "Red"),("C1", "Green"), ("C4", "Black"), ("C3", "White")
    \[ Hint : firstKey() and lastKey() ]<br>
