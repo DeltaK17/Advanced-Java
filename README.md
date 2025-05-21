@@ -147,6 +147,9 @@ startsWith() and endsWith()<br>
 [Output]()<br>
 
 ---
+3b. Develop a Java program to make a  Performance Test on  StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.<br>
+[Program]()<br>
+[Output]()<br>
 
 **3b. String Exercises**<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
