@@ -164,8 +164,8 @@ using user defined function countOccurrences()<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
 reverseString().<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Reversing_String.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Reversing_String.png)<br>
 
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome():<br>
