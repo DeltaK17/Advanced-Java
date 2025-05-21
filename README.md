@@ -128,8 +128,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Programminglanguages_LinkedHashMap.png)<br>
 
 3. Include the following elements into the LinkedHashMap called programminglanguages and print as follows. Java was developed in 1995 Python was developed in 1991. JavaScript was developed in 1995 C++ was developed in 1985<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Add_Same_Order_LinkedHashMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Add_Same_Order_LinkedHashMap.png)<br>
 
 4. Add elements in the same order in the LinkedHaspMap using for() loop and put()
    String\[] keys = {"C", "A", "B", "E", "D"}; Integer\[] values = {3, 1, 2, 5, 4};<br>
