@@ -234,8 +234,8 @@ pressed by implementing the event handling mechanism with addActionListener( ).<
 5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
 Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
 display them on console whenever the countries are selected on the list.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-5%20Swings/Countries_are_Selected.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-5%20Swings/Countries_are_Selected.png)<br>
 
 5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
 display the concerned color whenever the specific tab is selected in the Pan.<br>
