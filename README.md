@@ -51,8 +51,8 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/add_Last_linkedlist.png)<br>
 
 4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p) )<br>
-[Programs]() <br>
-[Output]()<br>
+[Programs](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/index_of_linkedlist.java) <br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/index_of_linkedlist.png)<br>
 
 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using Collections.swap(l_list, 0, 2))<br>
 [Program]() <br>
