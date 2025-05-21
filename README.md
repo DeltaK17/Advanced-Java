@@ -76,7 +76,7 @@ appending the string ‘AIET’ for 10000 times both in the StringBuffer and Str
 your answer which one is better.**<br>
 [Program]()<br>
 [Output]()<br>
-**HashMap
+### HashMap
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
    \[ hint : 6. Iterating Over Map in the worked out example]
@@ -95,7 +95,7 @@ your answer which one is better.**<br>
 4. Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")
    🔗 [Output Screenshot](Exp2-SetInterface/HM4.png)
 
-**TreeMap
+### TreeMap
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a TreeMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
    \[ hint : put() ; for (Map.Entry\<Integer,String> entry : tree\_map.entrySet()); getKey() and getValue()]
@@ -112,7 +112,7 @@ your answer which one is better.**<br>
    \[ Hint : firstKey() and lastKey() ]
    🔗 [Output Screenshot](Exp2-SetInterface/TM4.png)
 
-**LinkedHashMap
+### LinkedHashMap
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a linked HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”) and display only elderly entered 4 elements only
    \[ hint : Refer to 5. LinkedHashMap Demonstration of worked out example]
