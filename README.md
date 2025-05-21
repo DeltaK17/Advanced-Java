@@ -88,8 +88,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
    Hashmap1 => ( 1, "Red") ,(2, "Green"), (3, "Black")
    Hashmap2 => (4, "White"),(5, "Blue"),(6, "Orange")<br>
    Add all the values of Hashmap1 intoLiberation Serif Hashmap2 and print the result<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Copy_all_Mappings.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Copy_all_Mappings.png)<br>
 
 4. Write a Java program to check whether a map contains Key-Values mappings (empty) or not after adding all the following elements into Hashmap and after removing all the elements from the Hashmap. (1, "Red"),(2, "Green"), (3, "Black"), (4, "White"),(5, "Blue")<br>
 [Program]()<br>
