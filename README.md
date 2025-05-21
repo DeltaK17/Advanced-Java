@@ -259,14 +259,14 @@ display the concerned color whenever the specific tab is selected in the Pan<br>
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6a_FactorialServlet/FactorialCalculatorDemo.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6a_FactorialServlet/FactorialCalculatorDemo.png)<br>
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6b_CookieServlet/CookieServlet.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-6%20Servlet/6b_CookieServlet/CookieServlet.png)<br>
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.<br>
