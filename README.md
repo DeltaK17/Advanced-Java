@@ -47,8 +47,8 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/descIterator_linkedlist.png)<br>
 
 3. Write a Java program to insert the specified element at the end of a linked list.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/add_Last_linkedlist.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/add_Last_linkedlist.png)<br>
 
 4. Write a Java program to display elements and their positions in a linked list ( usingl_listobj.get(p) )<br>
 [Programs]() <br>
