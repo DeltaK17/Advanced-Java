@@ -1,3 +1,7 @@
+/*
+2.Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()
+*/
 package Lab3;
 
 public class Counting_Substring {
