@@ -1,6 +1,6 @@
 /*
-3. Write a Java program to insert the specified element at the end of a linked list.( using
-l_listobj.offerLast("Pink")).
+4. Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p)).
 */
 
 package Lab1;
