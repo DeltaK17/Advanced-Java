@@ -17,8 +17,8 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
   
 **1b. ArrayList**
 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1b_ArrayList/contains_red.java)<br>
+[Output Screenshot](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1b_ArrayList/contains_red.png)<br>
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList<br>
 [Program]()<br>
