@@ -124,8 +124,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Traverse_LinkedHashMap.png)<br>
 
 2. Include the following elements into the LinkedHashMap called programminglanguages and print all of them. ("Java", 1995);("Python", 1991);(“JavaScript", 1995);("C++", 1985);<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Programminglanguages_LinkedHashMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2c_LinkedHashMap/Programminglanguages_LinkedHashMap.png)<br>
 
 3. Include the following elements into the LinkedHashMap called programminglanguages and print as follows. Java was developed in 1995 Python was developed in 1991. JavaScript was developed in 1995 C++ was developed in 1985<br>
 [Program]()<br>
