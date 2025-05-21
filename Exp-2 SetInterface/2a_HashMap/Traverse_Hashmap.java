@@ -1,3 +1,7 @@
+/*
+1.Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), 
+(5,”Grapes”) [ hint : 6. Iterating Over Map in the worked out example]
+*/
 package Lab2;
 import java.util.*;
 import java.util.Map.Entry;
