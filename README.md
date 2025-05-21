@@ -313,7 +313,8 @@ HTML and JSP to get the fields and display the results respectively<br>
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively<br>
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-8%20JDBC%2BSQL/8d_JDBC_Update_Emp/Update_JDBC.png)<br>
-[SQL Database: Coffee & Employee Tables](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-8%20JDBC%2BSQL/SQL%20Database%20Coffee%20%26%20Employee%20Tables.md)
+[SQL Database: Coffee & Employee Tables](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-8%20JDBC%2BSQL/SQL%20Database%20Coffee%20%26%20Employee%20Tables.md)<br>
+
 ---
 **9.  JDBC + SQL**
 
