@@ -113,8 +113,8 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 
 4. Write a Java program to get the first (lowest) key and the last (highest) key currently in the following Treemap. ("C2", "Red"),("C1", "Green"), ("C4", "Black"), ("C3", "White")
    \[ Hint : firstKey() and lastKey() ]<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/FirstKey_LlastKey_TreeMap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2b_TreeMap/FirstKey_LlastKey_TreeMap.png)<br>
 
 ### LinkedHashMap
 
