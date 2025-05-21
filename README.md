@@ -43,8 +43,8 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/iterator_linkedlist.png)<br>
 
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())<br>
-[Program]() <br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/descIterator_linkedlist.java) <br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/descIterator_linkedlist.png)<br>
 
 3. Write a Java program to insert the specified element at the end of a linked list.<br>
 [Program]()<br>
