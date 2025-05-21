@@ -72,14 +72,12 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 
 ---
 **2b. Map Excercises**<br>
-[Program]()<br>
-[Output]()<br>
 ### HashMap
 
 1. Write a Java program to traverse / iterate all the keys with the specified value in a HashMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”), (4,”Cucumber”), (5,”Grapes”)
    \[ hint : 6. Iterating Over Map in the worked out example]<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Traverse_Hashmap.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-2%20SetInterface/2a_HashMap/Traverse_Hashmap.png)<br>
 
 2. Remove the following all elements from the HashMap then verify that its size is zero and include once again following elements and check its size (1,”Banana”), (2,”Orange”), (3,”Guava”), (4,”Pomegranate ”), (5,”Amla”)
    \[ Hint : clear() , size() and put()]<br>
