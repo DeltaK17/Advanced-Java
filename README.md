@@ -312,28 +312,28 @@ results respectively<br>
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-8%20JDBC%2BSQL/8d_JDBC_Update_Emp/Update_JDBC.png)<br>
 
 ---
-**9. SQL + JDBC Operations**
+**9.  JDBC + SQL**
 
 9a. Read all the existing records from the table coffee which is from the database test and delete
 an existing coffee product from the table with its id and display the rest of the records using
 HTML and JSP to get the field and display the results respectively<br>
-[Output]()<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-9%20JDBC%2BSQL/9a_Delete_Coffee/Read_All_Delete.png)<br>
 
 9b. Read all the existing records from the table coffee which is from the database test and query
 coffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the
 results respectively<br>
-[Output]()<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-9%20JDBC%2BSQL/9b_Query_Coffee/Read_All_Starts_With_D.png)<br>
 
 9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively<br>
-[Output]()<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-9%20JDBC%2BSQL/9c_JDBC_Append/Report.png)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively<br>
-[Output]()<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-9%20JDBC%2BSQL/9d_JDBC_Delete/DeleteEmployee.png)<br>
 
 
 
