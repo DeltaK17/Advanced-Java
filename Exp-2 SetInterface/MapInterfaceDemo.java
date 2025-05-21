@@ -1,3 +1,11 @@
+/*
+2a. Develop a Java program for adding elements [Apple, Banana, Orange] into HashSet, TreeSet and LinkedHashSet to perform the following operations directed as follows
+HashSet Demonstration :HashSet after adding elements: [Apple, Orange, Banana], Size of HashSet: 3, Is HashSet empty? false, Contains 'Apple'? true, Contains 'Grape'? False
+, After removing 'Banana': [Apple, Orange] TreeSet Demonstration : TreeSet (automatically sorted): [Elephant, Lion, Tiger, Zebra] LinkedHashSet Demonstration: LinkedHashSet
+(maintains insertion order): [Red, Green, Blue] Set Operations Demonstration:Union of sets: [1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: [4, 5] Difference of sets 
+(set1 - set2): [1, 2, 3] Iteration Demonstration : Using for-each loop,Using Iterator
+*/
+
 package Lab2;
 import java.util.*;
 public class MapInterfaceDemo {
