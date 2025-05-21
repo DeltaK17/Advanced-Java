@@ -193,13 +193,13 @@ defined function truncate()<br>
 
 8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Counting_The_Number_of_Words.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Counting_The_Number_of_Words.png)<br>
 
 9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Creating_A_Random_String.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Creating_A_Random_String.png)<br>
 
 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()<br>
