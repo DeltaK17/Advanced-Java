@@ -203,8 +203,8 @@ function generateRandomString()<br>
 
 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Counting_The_Number_of_Words.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3c_String_Exercises/Counting_The_Number_of_Words.png)<br>
 
 ---
 **4. Swings**<br>
