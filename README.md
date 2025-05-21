@@ -59,13 +59,14 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-1%20ListOperation/1c_LinkedList/swap_element.png)<br>
 
 ---
-**2a. Develop a java program for performing various string operations with different string
-handling functions directed as follows<br>**
+**2a. Develop a Java program for adding elements \[Apple, Banana, Orange] into HashSet, TreeSet and LinkedHashSet to perform the following operations directed as follows<br>**
 
-String Creation and Basic Operations, Length and Character Access, String Comparison, String
-Searching, Substring Operations , String Modification, Whitespace Handling, String
-Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
-contains( ) and startsWith() and endsWith()<br>
+HashSet Demonstration \:HashSet after adding elements: \[Apple, Orange, Banana], Size of HashSet: 3, Is HashSet empty? false, Contains 'Apple'? true, Contains 'Grape'? False, After removing 'Banana': \[Apple, Orange]
+TreeSet Demonstration : TreeSet (automatically sorted): \[Elephant, Lion, Tiger, Zebra]
+LinkedHashSet Demonstration: LinkedHashSet (maintains insertion order): \[Red, Green, Blue]
+Set Operations Demonstration\:Union of sets: \[1, 2, 3, 4, 5, 6, 7, 8], Intersection of sets: \[4, 5]
+Difference of sets (set1 - set2): \[1, 2, 3]
+Iteration Demonstration : Using for-each loop,Using Iteratorbr>
 [Program]()<br>
 [Output]()<br>
 
