@@ -143,15 +143,15 @@ Iteration Demonstration : Using for-each loop,Using Iterator<br>
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3a_StringOperations/StringHandlingDemo.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3a_StringOperations/StringHandlingDemo.png)<br>
 
 ---
 3b. Develop a Java program to make a  Performance Test on  StringBuffer and StringBuilder for appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.<br>
-[Program]()<br>
-[Output]()<br>
+[Program](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3b_StringPerformanceTest/String_Performance_Test.java)<br>
+[Output](https://github.com/DeltaK17/Advanced-Java/blob/main/Exp-3%20StringOperation/3b_StringPerformanceTest/String_Performance_Test.png)<br>
 
-**3b. String Exercises**<br>
+**3c. String Exercises**<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
 [Program]()<br>
