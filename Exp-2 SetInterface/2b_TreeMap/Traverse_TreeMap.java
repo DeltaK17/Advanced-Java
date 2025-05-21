@@ -1,3 +1,7 @@
+/*
+1.Write a Java program to traverse / iterate all the keys with the specified value in a TreeMap (1,”Apple”), (2,”Strawberry”), (3,”Pear”)
+, (4,”Cucumber”), (5,”Grapes”) [ hint : put() ; for (Map.Entry<Integer,String> entry : tree_map.entrySet()); getKey() and getValue()] 
+*/
 package Lab2;
 import java.util.*;
 import java.util.Map.Entry;
