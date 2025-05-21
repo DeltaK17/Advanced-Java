@@ -1,3 +1,6 @@
+/*3.Include the following elements into the LinkedHashMap called programminglanguages and print as follows. Java was developed in 1995 
+Python was developed in 1991. JavaScript was developed in 1995 C++ was developed in 1985
+*/
 package Lab2;
 import java.util.*;
 import java.util.Map.Entry;
